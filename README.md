@@ -14,4 +14,5 @@ Web Application with JSP and Servlet  to store data received from the CSV file i
 #### -Now Run the Application on Apache Tomcat Server(v8.0) by following:
 #### - Right Click on Project->Go to: Run As->Run On Server-> Apache Tomcat(localhost)
 #### -Navigate to http://localhost:8080/CSV_to_DBMS_Processor/
+#### -You may consider using the Sample CSV for Testing available in Sample CSV folder 
 #### *Note:8080 is port number which depends on your server, though its the default but still it may change*
